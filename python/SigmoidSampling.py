@@ -111,8 +111,8 @@ if __name__ == "__main__":
 	plt.title("Density estimation with Monte Carlo")
 	plt.annotate(f'Efficiency = {eff:.2f}%', (Xmin, 0.05), fontsize=12)
 	plt.legend()
-	plt.show()
 	plt.savefig("ImplementedSampling.pdf")
+	plt.show()
 
 
 
