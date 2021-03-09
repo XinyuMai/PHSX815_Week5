@@ -11,8 +11,8 @@ HW6: I am integrating function np.exp(x**3)
 
 ## General info
 This repository will include HW5 and HW6 practice 
-HW5 - using the rejection sampling method to sampling from a distributino and visualize the target distribution, proposal distribution and random samples.
-HW6 - implement two different numerical integration methods - trapezoidal rule and Gaussian quadrature, to integrate selected function. Compare the difference between the two numerical integrals, and their difference with the correct/analytic answer, as a function of the number sub-intervals. 
+* HW5 - using the rejection sampling method to sampling from a distributino and visualize the target distribution, proposal distribution and random samples.
+* HW6 - implement two different numerical integration methods - trapezoidal rule and Gaussian quadrature, to integrate selected function. Compare the difference between the two numerical integrals, and their difference with the correct/analytic answer, as a function of the number sub-intervals. 
 
 ## Code Usage
 * Can be run from the command line using the `-h` flag to display usage options. 
